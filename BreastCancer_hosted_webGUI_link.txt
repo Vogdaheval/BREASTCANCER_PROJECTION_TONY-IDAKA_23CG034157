@@ -1,11 +1,11 @@
-Name: Eloh Eniola
+Name: TONY-IDAKA JOY
 
-Matric Number: 23CG034064
+Matric Number: 23CG034157
 
 Machine Learning Algorithm Used: Logistic Regression
 
 Model persistence method used (e.g., Joblib or Pickle): Joblib (.pkl)
 
-Live URL of the hosted application: https://breastcancer-project-eloheniola.onrender.com/
+Live URL of the hosted application: https://breastcancer-projection-tony-idaka.onrender.com
 
-GitHub repository link: https://github.com/E-DOLLZ/BreastCancer_Project_ElohEniola_23CG034064
+GitHub repository link: https://github.com/Vogdaheval/BREASTCANCER_PROJECTION_TONY-IDAKA_23CG034157
