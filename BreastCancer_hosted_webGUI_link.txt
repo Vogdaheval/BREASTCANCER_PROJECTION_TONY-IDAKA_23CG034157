@@ -1,0 +1,11 @@
+Name: Eloh Eniola
+
+Matric Number: 23CG034064
+
+Machine Learning Algorithm Used: Logistic Regression
+
+Model persistence method used (e.g., Joblib or Pickle): Joblib (.pkl)
+
+Live URL of the hosted application: https://breastcancer-project-eloheniola.onrender.com/
+
+GitHub repository link: https://github.com/E-DOLLZ/BreastCancer_Project_ElohEniola_23CG034064
